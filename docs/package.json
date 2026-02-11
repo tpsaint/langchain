@@ -22,8 +22,8 @@
     "check-broken-links": "make vercel-build && node ./scripts/check-broken-links.js"
   },
   "dependencies": {
-    "@docusaurus/core": "3.5.2",
-    "@docusaurus/plugin-google-tag-manager": "^3.8.1",
+    "@docusaurus/core": "3.9.0",
+    "@docusaurus/plugin-google-tag-manager": "^3.9.0",
     "@docusaurus/preset-classic": "3.5.2",
     "@docusaurus/remark-plugin-npm2yarn": "^3.5.2",
     "@docusaurus/theme-mermaid": "3.5.2",
